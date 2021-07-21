@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>mhsc_transporteurlettresuivi</name>
+    <displayName><![CDATA[Affiche back office lettre suivi]]></displayName>
+    <version><![CDATA[0.1.0]]></version>
+    <description><![CDATA[Affiche dans le back office toutes les commandes pay&eacute;es et qui ont choisi comme transporteur lettre suivi]]></description>
+    <author><![CDATA[Von Negri Steve]]></author>
+    <tab><![CDATA[administration]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>mhsc_pubcustomer</name>
+    <displayName><![CDATA[Bandeau pub dans l&#039;espace client]]></displayName>
+    <version><![CDATA[0.1.0]]></version>
+    <description><![CDATA[Bandeau pub dans l&#039;espace client et customisable dans le back-office]]></description>
+    <author><![CDATA[Von Negri Steve]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>mhsc_videoproduct</name>
+    <displayName><![CDATA[Champ video au produit]]></displayName>
+    <version><![CDATA[0.1.0]]></version>
+    <description><![CDATA[Ajout d&#039;un champ video au produit lors de l&#039;ajout ou de la modification]]></description>
+    <author><![CDATA[Von Negri Steve]]></author>
+    <tab><![CDATA[administration]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
